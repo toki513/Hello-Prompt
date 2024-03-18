@@ -1,0 +1,30 @@
+.wallpaper{
+    width: 100%;
+    background-image: url(pexels-pixabay-66284.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 94vh;
+}
+
+.wallpaper h1{
+    padding: 4rem;
+    position: relative;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1 > span {
+    color: blueviolet;
+}
+
+button{
+    width: 8%;
+    padding: .3rem;
+    background-color:burlywood;
+    color: black;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 12px 8px rgba(0, 0, 0, 0.183);
+    margin-left: 4rem;
+} 
+ 
